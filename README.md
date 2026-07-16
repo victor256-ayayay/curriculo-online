@@ -12,6 +12,7 @@ Meu primeiro projeto desenvolvido durante o Bootcamp Front-end de 90 dias.
 - Aprender HTML semântico
 - Publicar meu primeiro projeto no GitHub
 - Praticar HTML semântico e desenvolver meu primeiro projeto publicado no GitHub.
+- Pratiquei a primeira vez com CSS
 
 ## Autor
 
