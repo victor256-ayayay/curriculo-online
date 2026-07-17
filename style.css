@@ -1,8 +1,11 @@
+header{
+    text-align: center;
+}
 h1 {
     color: #1f4e79;
     text-align:center;
-    font-size: 50px;
-    margin-top: 30px;
+    padding: 20px;
+    font-size: 40px;
     text-transform: uppercase;
 }
 h2{
@@ -13,6 +16,8 @@ h2{
     body{
     background-color: #f4f4f4;
     font-family: Arial, sans-serif;
+    max-width: 900px;    
+    margin: auto;
 }
 p {
     font-size: 20px;
@@ -22,22 +27,29 @@ img{
     border-radius: 50%; 
 }
 section{
+    background-color: white;
+    padding: 20px;
     margin: 20px;
+    border-radius: 20px;
+    box-shadow: 0 5px 10px rgba(0,0,0,0.1);
 }
 nav{
     text-align: center;
     font-size: 25px;
     margin-top: 20px;
 }
-ol{
+nav a{
+    margin: 0 15px;
+    text-decoration: none;
+}
+ol,ul{
     font-size: 20px;
 }
-ul{
-    font-size: 20px;
+li a{
+    text-decoration: none;
 }
 footer{
     font-size: 15px;
-}
-header{
     text-align: center;
+    color: grey;
 }
